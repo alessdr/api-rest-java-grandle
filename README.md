@@ -1,4 +1,4 @@
-# Exemplo e Api Rest criada com Java, Spring Boot e Swagger
+# Exemplo e Api Rest criada com Java, Spring Boot, Swagger e Grandle
 
 ## Processo de criação:
 
