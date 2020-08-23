@@ -38,4 +38,4 @@ Obs: Não é necessário a criação da tabela/estrutura, visto que estas serão
 
 - Abra a URL abaixo no seu navegador
 
-	http://127.0.0.1:8080/swagger-ui.htm
+	http://127.0.0.1:8080/swagger-ui.html
